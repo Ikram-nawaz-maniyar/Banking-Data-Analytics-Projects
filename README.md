@@ -1,4 +1,5 @@
 🏦 Banking Data Analytics Project
+
 📊 Overview
 This project explores and analyzes key metrics from a banking dataset using a combination of Excel, Power BI, Python, DAX, and SQL. The aim is to derive actionable insights and visualize business performance, customer behavior, and financial trends through an interactive dashboard.
 
