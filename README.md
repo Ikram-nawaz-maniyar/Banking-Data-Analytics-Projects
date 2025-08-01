@@ -15,16 +15,22 @@ SQL Workbench/J: Data querying, joins, aggregations, and filtering — integrate
 DAX (Data Analysis Expressions): Custom metrics and logic within Power BI.
 
 📁 Project Structure
-bash
-Copy
-Edit
+
+
 📂 Banking-Data-Analytics-Project/
+
 ├── 📊 Banking D,A Project.pbix           # Power BI dashboard file
+
 ├── 📜 SQL Queries.sql                    # SQL queries for data extraction and manipulation
+
 ├── 📓 Jupyter_Notebook.ipynb             # Python analysis and SQL integration notebook
+
 ├── 📈 Final_Dashboard_Excel.xlsx         # Excel file used in final dashboard for reference
+
 ├── 📄 README.md                          # Project documentation
+
 🔍 Key Insights & Features
+
 Customer Segmentation based on account type, region, and spending habits.
 
 Profitability Analysis by geography and product category.
@@ -38,6 +44,7 @@ SQL-powered insights such as average balances, transaction count by region, and 
 Interactive Dashboard with slicers and dynamic visualizations in Power BI.
 
 🧪 How to Run the Project
+
 Clone this repository.
 
 Open the Banking D,A Project.pbix file in Power BI Desktop.
@@ -51,6 +58,7 @@ Explore or update visuals using your own filters or business questions.
 
 
 🚀 Future Improvements
+
 Incorporate real-time data using Power BI Gateway or Python APIs.
 
 Add ML models for customer churn or credit scoring using Python.
