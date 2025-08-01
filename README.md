@@ -25,7 +25,7 @@ DAX (Data Analysis Expressions): Custom metrics and logic within Power BI.
 
 ├── 📓 Jupyter_Notebook.ipynb             # Python analysis and SQL integration notebook
 
-├── 📈 Final_Dashboard_Excel.xlsx         # Excel file used in final dashboard for reference
+├── 📈 Final_Dashboard_PowerBi         # Excel file used in final dashboard for reference
 
 ├── 📄 README.md                          # Project documentation
 
