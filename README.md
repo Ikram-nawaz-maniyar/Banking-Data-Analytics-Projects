@@ -1,4 +1,5 @@
 💼 Banking Data Analytics Project (2025)
+
 Tools Used: Power BI, DAX, Power Query, Excel, SQL, Python Libraries (Numpy, Pandas, Seaborn, MatplotLib)
 
 This project is a dynamic and interactive Banking Dashboard designed to provide stakeholders with comprehensive insights into customer behavior, loan performance, and deposit trends. The goal was to create a centralized visual platform to support data-driven decision-making in the banking sector.
