@@ -1,69 +1,66 @@
-🏦 Banking Data Analytics Project
+💼 Banking Data Analytics Project (2025)
+Tools Used: Power BI, DAX, Power Query, Excel, SQL, Python Libraries (Numpy, Pandas, Seaborn, MatplotLib)
 
-📊 Overview
-This project explores and analyzes key metrics from a banking dataset using a combination of Excel, Power BI, Python, DAX, and SQL. The aim is to derive actionable insights and visualize business performance, customer behavior, and financial trends through an interactive dashboard.
+This project is a dynamic and interactive Banking Dashboard designed to provide stakeholders with comprehensive insights into customer behavior, loan performance, and deposit trends. The goal was to create a centralized visual platform to support data-driven decision-making in the banking sector.
 
-🧰 Tools & Technologies Used
-Excel: Data preprocessing and cleaning; final touch-ups for Power BI dashboard.
+🧠 Key Objectives:
+Visualize core banking KPIs such as total clients, total loan and deposit volumes, and account types
 
-Power BI: Visualizing insights, creating calculated columns/measures using DAX, and publishing the interactive dashboard.
+Enable filtering by year, gender, institution type (Private Bank, Commercial, Retail, etc.), and occupation
 
-Python (Pandas, Matplotlib, Seaborn): Exploratory data analysis and transformation in Jupyter Notebook.
+Provide segmented views for Loan Analysis, Deposit Analysis, and a consolidated Summary
 
-SQL Workbench/J: Data querying, joins, aggregations, and filtering — integrated with Python via Jupyter.
+📊 Dashboard Highlights:
+🔹 Home Page Overview
 
-DAX (Data Analysis Expressions): Custom metrics and logic within Power BI.
+Total Clients: 3,000
 
-📁 Project Structure
+Total Loans: 4.38bn | Total Deposits: 3.77bn
 
+Breakdown of Savings, Checking Accounts, and Business Lending
 
-📂 Banking-Data-Analytics-Project/
+Dynamic filters by Year and Gender
 
-├── 📊 Banking D,A Project.pbix           # Power BI dashboard file
+🔹 Loan Analysis Page
 
-├── 📜 SQL Queries.sql                    # SQL queries for data extraction and manipulation
+Total Loan: 4.38bn | Bank Loan: 1.77bn | Business Lending: 2.60bn
 
-├── 📓 Jupyter_Notebook.ipynb             # Python analysis and SQL integration notebook
+CC (Credit Card) Balance Overview: 9.53M
 
-├── 📈 Final_Dashboard_PowerBi         # Excel file used in final dashboard for reference
+Visual breakdowns of:
 
-├── 📄 README.md                          # Project documentation
+Loan by Institution Type (BRId)
 
-🔍 Key Insights & Features
+Loan by Occupation
 
-Customer Segmentation based on account type, region, and spending habits.
+Loan by Nationality
 
-Profitability Analysis by geography and product category.
+Loan by Income Band (Low, Medium, High)
 
-Trend Monitoring for deposits, withdrawals, and active accounts over time.
+🔹 Deposit Analysis Page
 
-Custom Metrics built using DAX (e.g., YoY growth, cumulative totals).
+Total Deposits: 3.77bn | Bank Deposits: 2.01bn
 
-SQL-powered insights such as average balances, transaction count by region, and churn probability.
+Savings Accounts: 698.73M | Checking Accounts: 963.28M
 
-Interactive Dashboard with slicers and dynamic visualizations in Power BI.
+Visuals include:
 
-🧪 How to Run the Project
+Deposits by Institution Type
 
-Clone this repository.
+Deposits by Occupation
 
-Open the Banking D,A Project.pbix file in Power BI Desktop.
+Deposits by Nationality
 
-If needed, replace data sources to match your local paths.
+Deposits by Income Band
 
-Review the Jupyter Notebook for SQL integration and Python-based EDA.
+⚙️ Technical Skills Demonstrated:
+Data Cleaning & Transformation using Power Query
 
-Explore or update visuals using your own filters or business questions.
+DAX calculations for aggregated KPIs and segmentation logic
 
+Interactive slicers and bookmarks for smooth navigation and filtering
 
+Visual storytelling and executive-friendly dashboard design
 
-🚀 Future Improvements
-
-Incorporate real-time data using Power BI Gateway or Python APIs.
-
-Add ML models for customer churn or credit scoring using Python.
-
-Embed Power BI dashboard into a web application for wider access.
-
-📬 Contact
-For any queries or suggestions, feel free to open an issue or contact [Ikram Nawaz Maniyar] on GitHub.
+🎯 Outcome:
+This dashboard offers a streamlined, insightful look at customer demographics and financial behavior, helping decision-makers understand trends, identify opportunities, and allocate resources efficiently.
